@@ -1,7 +1,7 @@
 # BrainBase
 Platform for running and interfacing with neural networks.<br>
 <br>
-A connectome is represented as a .net file, which stores neuron names and their associated connections. All .net files should take the following form, where  is the newline character (MAKE SURE TO START THE FILE WITH A NEWLINE):<br>
+A connectome is represented as a .net file, which stores neuron names and their associated connections. All .net files should take the following form:<br>
 <br>
 <br>
 neuron_name1<br>
